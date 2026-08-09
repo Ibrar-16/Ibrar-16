@@ -10,7 +10,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="100" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
+<img data-importer="image" align="right" height="110" src="https://media.tenor.com/GfSX-u7VGM4AAAAM/coding.gif"  />
 
 ###
 
