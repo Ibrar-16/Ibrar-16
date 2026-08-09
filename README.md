@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">AI undergraduate researcher from Sindh, Pakistan, building machine learning, deep learning, computer vision and NLP systems — from medical imaging to conversational AI.</p>
+<p data-importer="text" align="left">AI undergraduate researcher from Sindh, Pakistan. Building machine learning, deep learning, computer vision and NLP systems, from medical imaging to conversational AI.</p>
 
 ###
 
@@ -66,17 +66,6 @@
   <a href="ibraralichanna125@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<h2 data-importer="text" align="left">Stats</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
