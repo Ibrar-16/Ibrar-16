@@ -63,9 +63,10 @@
   <a href="https://discordapp.com/users/1062284449099812904" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="ibraralichanna125@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
 </div>
+
+###
+
+<p data-importer="text" align="left">Gmail: ibraralichanna125@gmail.com</p>
 
 ###
