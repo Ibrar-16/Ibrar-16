@@ -63,24 +63,20 @@
   <a href="https://discordapp.com/users/1062284449099812904" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="ibraralichanna125@gmail.com" target="_blank">
+  <a href="mailto:ibraralichanna125@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<br clear="both">
-
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ibrar-16&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&locale=en" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrar-16&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&locale=en" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/Ibrar-16/Ibrar-16/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
