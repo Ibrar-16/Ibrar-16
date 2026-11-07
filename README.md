@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">AI undergraduate researcher from Sindh, Pakistan. Building machine learning, deep learning, computer vision and NLP systems, from medical imaging to conversational AI.</p>
+<p data-importer="text" align="left">AI undergraduate researcher & developer from Sindh, Pakistan. Building machine learning, deep learning, computer vision and NLP systems, from medical imaging to conversational AI.</p>
 
 ###
 
